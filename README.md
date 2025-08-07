@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm a passionate and curious Cybersecurity Enthusi
 Languages:   Python | Java | JavaScript | C#
 Frameworks:  React Native | ASP.NET | Node.js
 Databases:   MySQL  | Firebase
-Tools:       Git | VS Code | Figma | Postman | Twilio | Hugging Face
+Tools:       Git | VS Code | Figma 
